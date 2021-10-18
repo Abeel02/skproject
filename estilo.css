@@ -1,0 +1,21 @@
+table{
+    border-style:double;
+     border: 5px solid; 
+     border-color: rgb(128, 64, 0); 
+     
+}
+td{
+    background-color:rgb(128,64,0);
+    width: 180px;
+    height: 120px; 
+}
+.colorAmarillo{ 
+    background-color: burlywood; 
+    width: 120px; 
+    height: 120px; 
+}
+.titulo{
+    color: coral;
+    font-size: 38px;
+
+}
